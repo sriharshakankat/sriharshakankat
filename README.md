@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sriharsha
-- 👀 I’m interested in Devops ,Python , IOT
+- 👀 I’m interested in Devops ,Python , IOT , GCP
 - 🌱 I’m currently learning Cloud and Cloud Tools
 - 📫 How to reach me Drop me an e-mail :), or check my Twitter.
 
